@@ -1,4 +1,4 @@
-## Hi, This is Ashik Mahmud
+## Hello.., This is Ashik Mahmud
 ### Learner and Problem Solver
 
 #### Acquainted with : C, C++, Python

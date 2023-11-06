@@ -3,7 +3,7 @@
 
 #### Acquainted with : C, C++, Python
 #### Interested in : AI/ML
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+![](https://leetcode.com/ashik1104/)
 <!--
 **ashik1104/ashik1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

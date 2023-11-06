@@ -1,10 +1,10 @@
-## Hello.., This is Ashik Mahmud(#### Undergrad student at the department of Robotics and Mechatronics Engineering, University of Dhaka)
+## Hello.., This is Ashik Mahmud
 
-
-## Currently learning ML and DL and associated with competitive programming
+### Currently learning ML and DL and associated with competitive programming
 
 #### Acquainted with : C, C++, Python
 #### Interested in : AI/ML
+
 ### LEETCODE PROFILE : 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ashik1104?ext=contest)
 <!--

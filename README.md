@@ -1,4 +1,5 @@
-## Hello.., This is Ashik Mahmud
+### Hello.., This is Ashik Mahmud
+##### Undergrad student at the department of Robotics and Mechatronics Engineering
 
 ### 🌱 I’m currently learning ML and DL and associated with competitive programming
 

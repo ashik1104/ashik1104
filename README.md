@@ -1,5 +1,5 @@
 ## Hello.., This is Ashik Mahmud
-### Currently learning ML and DL and associated with competitive programming
+## Currently learning ML and DL and associated with competitive programming
 
 #### Acquainted with : C, C++, Python
 #### Interested in : AI/ML

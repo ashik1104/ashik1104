@@ -1,5 +1,5 @@
 ## Hello.., This is Ashik Mahmud
-### Learner and Problem Solver
+### Currently learning ML and DL and associated with competitive programming
 
 #### Acquainted with : C, C++, Python
 #### Interested in : AI/ML

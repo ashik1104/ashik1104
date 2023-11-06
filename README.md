@@ -1,4 +1,5 @@
 ## Hello.., This is Ashik Mahmud
+#### Undergrad student at the department of Robotics and Mechatronics Engineering, University of Dhaka
 ## Currently learning ML and DL and associated with competitive programming
 
 #### Acquainted with : C, C++, Python

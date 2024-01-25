@@ -5,9 +5,10 @@
 #### Acquainted with : C, C++, Python
 #### Interested in : AI/ML
 </br>
-
-### LEETCODE PROFILE
-![Leetcode Stat](https://leetcard.jacoblin.cool/ashik1104?ext=contest)
+<h2 align="center">LEETCODE PROFILE<?h2>
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ashik1104?ext=contest" />  
+</p>
 <!--
 **ashik1104/ashik1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

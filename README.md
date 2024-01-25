@@ -1,19 +1,13 @@
 ### Hello...👋, This is Ashik Mahmud
 ##### Undergrad student at the department of Robotics and Mechatronics Engineering, University of Dhaka
-
-
-
 ### 🌱 I’m currently learning ML and DL and associated with competitive programming
-
-
 
 #### Acquainted with : C, C++, Python
 #### Interested in : AI/ML
 </br>
-</br>
 
 ### LEETCODE PROFILE
-![](https://leetcard.jacoblin.cool/ashik1104?ext=contest)
+![Leetcode Stat](https://leetcard.jacoblin.cool/ashik1104?ext=contest)
 <!--
 **ashik1104/ashik1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

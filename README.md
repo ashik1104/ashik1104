@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning ML and DL and associated with competitive programming
 
 #### Acquainted with : C, C++, Python
-#### Interested in : AI/ML
+#### Interested in : Artificial Intelligence / Machine Learning
 </br>
 <h2 align="center">LEETCODE PROFILE<?h2>
 <p align="center">

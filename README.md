@@ -1,4 +1,5 @@
-### Hello...👋, This is Ashik Mahmud
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simanto97&label=Profile%20views&color=0e75b6&style=flat" alt="simanto97" /> </p>
+<h1 align="center">Hello...👋, This is Ashik Mahmud</h1>
 ##### Undergrad student at the department of Robotics and Mechatronics Engineering, University of Dhaka
 ### 🌱 I’m currently learning ML and DL and associated with competitive programming
 

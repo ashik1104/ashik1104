@@ -2,7 +2,7 @@
 <h1 align="center">Hello...👋, This is Ashik Mahmud</h1>
 Undergrad student at the department of Robotics and Mechatronics Engineering, University of Dhaka</br>
 
-🌱 I’m currently learning ML and DL and associated with competitive programming
+- 🌱 I’m currently learning ML and DL and associated with competitive programming.
 
 #### Acquainted with : C, C++, Python
 #### Interested in : Artificial Intelligence / Machine Learning

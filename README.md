@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ML and DL and associated with competitive programming.
 
-- Proficient with : C, C++, Python
+- Proficient at : C, C++, Python
 - Interested in : Artificial Intelligence / Machine Learning
 
 <h3 align="center">Connect with me:</h3>

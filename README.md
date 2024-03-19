@@ -3,7 +3,7 @@
 <h3 align="center">Undergrad student at the department of Robotics and Mechatronics Engineering, University of Dhaka</h3>
 </br>
 
-- 🌱 I’m currently learning ML and DL and associated with competitive programming.
+- 🌱 I’m currently learning ML and DL and actively connected with competitive programming.
 
 - Proficient at : C, C++, Python
 - Interested in : Artificial Intelligence / Machine Learning
